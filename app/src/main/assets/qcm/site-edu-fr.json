@@ -1,0 +1,459 @@
+{
+ "id": "site-edu-fr",
+ "kind": "practice",
+ "lang": "fr",
+ "version": 2,
+ "source": "Wadifa Info – Sciences de l'éducation (enseignement)",
+ "titleFr": "Sciences de l'éducation (enseignement)",
+ "titleAr": "علوم التربية (التعليم)",
+ "questions": [
+  {
+   "stem": "Qui est le père du conditionnement opérant ?",
+   "options": [
+    "Pavlov",
+    "Skinner",
+    "Piaget",
+    "Vygotsky"
+   ],
+   "correct": 1,
+   "subject": "Théories d'apprentissage",
+   "explanation": "Skinner : le comportement est façonné par ses conséquences (renforcements).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Le conditionnement classique (réflexe conditionné) est associé à…",
+   "options": [
+    "Watson",
+    "Pavlov",
+    "Bandura",
+    "Bruner"
+   ],
+   "correct": 1,
+   "subject": "Théories d'apprentissage",
+   "explanation": "Pavlov et son expérience célèbre du chien (stimulus-réponse).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Pour le constructivisme de Piaget, l'apprentissage se fait par…",
+   "options": [
+    "Transmission directe du savoir",
+    "Assimilation et accommodation",
+    "Imitation des adultes",
+    "Récompenses et punitions"
+   ],
+   "correct": 1,
+   "subject": "Théories d'apprentissage",
+   "explanation": "L'enfant construit ses connaissances en assimilant le nouveau et en accommodant ses schèmes.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "La « zone proximale de développement » (ZPD) est un concept de…",
+   "options": [
+    "Piaget",
+    "Vygotsky",
+    "Freinet",
+    "Gardner"
+   ],
+   "correct": 1,
+   "subject": "Théories d'apprentissage",
+   "explanation": "Vygotsky : l'écart entre ce que l'enfant fait seul et avec l'aide d'un adulte (socioconstructivisme).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "L'apprentissage par observation et imitation (vicariant) est la théorie de…",
+   "options": [
+    "Bandura",
+    "Skinner",
+    "Ausubel",
+    "Rogers"
+   ],
+   "correct": 0,
+   "subject": "Théories d'apprentissage",
+   "explanation": "Albert Bandura : l'apprentissage social par modèles.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "La théorie des intelligences multiples est due à…",
+   "options": [
+    "Binet",
+    "Gardner",
+    "Wallon",
+    "Freud"
+   ],
+   "correct": 1,
+   "subject": "Théories d'apprentissage",
+   "explanation": "Howard Gardner distingue 8 formes d'intelligence (linguistique, logique, spatiale…).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "La pédagogie de l'intégration adoptée au Maroc est liée à…",
+   "options": [
+    "Xavier Roegiers",
+    "Philippe Meirieu",
+    "Célestin Freinet",
+    "Maria Montessori"
+   ],
+   "correct": 0,
+   "subject": "Pédagogie & didactique",
+   "explanation": "Roegiers a théorisé l'approche par l'intégration des acquis (situations complexes).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Que désigne la « transposition didactique » ?",
+   "options": [
+    "Le passage du savoir savant au savoir enseigné",
+    "Le transfert d'un enseignant à un autre établissement",
+    "La traduction des manuels",
+    "Le passage d'un niveau à un autre"
+   ],
+   "correct": 0,
+   "subject": "Pédagogie & didactique",
+   "explanation": "Concept de Chevallard : adapter le savoir scientifique pour l'enseigner.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Le triangle pédagogique (Houssaye) relie…",
+   "options": [
+    "Élève, famille, école",
+    "Savoir, enseignant, élève",
+    "Programme, manuel, examen",
+    "École, société, État"
+   ],
+   "correct": 1,
+   "subject": "Pédagogie & didactique",
+   "explanation": "Les trois pôles : savoir, professeur, apprenant — et les processus entre eux.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "La pédagogie différenciée consiste à…",
+   "options": [
+    "Séparer les élèves faibles des forts",
+    "Adapter les méthodes à la diversité des élèves d'une même classe",
+    "Enseigner des programmes différents par région",
+    "Noter différemment selon les élèves"
+   ],
+   "correct": 1,
+   "subject": "Pédagogie & didactique",
+   "explanation": "Varier méthodes et supports pour que chaque élève atteigne les mêmes objectifs.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Dans la pédagogie par objectifs, un objectif opérationnel doit être…",
+   "options": [
+    "Général et ambitieux",
+    "Observable et mesurable",
+    "Long et détaillé",
+    "Implicite"
+   ],
+   "correct": 1,
+   "subject": "Pédagogie & didactique",
+   "explanation": "Un objectif opérationnel décrit un comportement observable et mesurable (Mager).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Le « contrat didactique » désigne…",
+   "options": [
+    "Le contrat de travail de l'enseignant",
+    "Les attentes implicites entre enseignant et élèves autour du savoir",
+    "Le règlement intérieur de l'école",
+    "Un accord signé avec les parents"
+   ],
+   "correct": 1,
+   "subject": "Pédagogie & didactique",
+   "explanation": "Concept de Brousseau : les règles implicites qui régissent la relation didactique.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "L'évaluation pratiquée AVANT l'apprentissage s'appelle…",
+   "options": [
+    "Formative",
+    "Sommative",
+    "Diagnostique",
+    "Certificative"
+   ],
+   "correct": 2,
+   "subject": "Évaluation",
+   "explanation": "L'évaluation diagnostique identifie les acquis et lacunes avant d'enseigner.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "L'évaluation formative a pour but de…",
+   "options": [
+    "Classer les élèves",
+    "Réguler l'apprentissage en cours de route",
+    "Délivrer un diplôme",
+    "Sanctionner les erreurs"
+   ],
+   "correct": 1,
+   "subject": "Évaluation",
+   "explanation": "Elle informe l'enseignant et l'élève pour ajuster l'enseignement — sans note-sanction.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Un test est dit « fidèle » lorsqu'il…",
+   "options": [
+    "Mesure ce qu'il prétend mesurer",
+    "Donne des résultats stables s'il est répété",
+    "Est facile à corriger",
+    "Couvre tout le programme"
+   ],
+   "correct": 1,
+   "subject": "Évaluation",
+   "explanation": "Fidélité = stabilité des résultats ; la validité = mesurer ce qu'on prétend mesurer.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "La docimologie est la science qui étudie…",
+   "options": [
+    "Les programmes scolaires",
+    "Les examens et la notation",
+    "Le développement de l'enfant",
+    "Les méthodes de lecture"
+   ],
+   "correct": 1,
+   "subject": "Évaluation",
+   "explanation": "La docimologie analyse les examens, la notation et leurs biais.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Dans la taxonomie de Bloom, le niveau le plus élevé du domaine cognitif est…",
+   "options": [
+    "La compréhension",
+    "L'application",
+    "L'analyse",
+    "L'évaluation"
+   ],
+   "correct": 3,
+   "subject": "Évaluation",
+   "explanation": "Ordre : connaissance, compréhension, application, analyse, synthèse, évaluation.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Considérer l'erreur comme un outil d'apprentissage relève de…",
+   "options": [
+    "La pédagogie de l'erreur",
+    "La pédagogie autoritaire",
+    "L'évaluation sommative",
+    "La pédagogie traditionnelle"
+   ],
+   "correct": 0,
+   "subject": "Évaluation",
+   "explanation": "L'erreur devient une source d'information sur les représentations de l'élève.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "En quelle année la Charte nationale d'éducation et de formation a-t-elle été adoptée ?",
+   "options": [
+    "1996",
+    "1999",
+    "2002",
+    "2005"
+   ],
+   "correct": 1,
+   "subject": "Système éducatif marocain",
+   "explanation": "La Charte nationale a été adoptée en 1999 (décennie de l'éducation 2000-2009).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "La loi-cadre 51.17 relative au système d'éducation date de…",
+   "options": [
+    "2015",
+    "2017",
+    "2019",
+    "2021"
+   ],
+   "correct": 2,
+   "subject": "Système éducatif marocain",
+   "explanation": "La loi-cadre 51.17 a été promulguée en août 2019.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "La Vision stratégique de la réforme éducative couvre la période…",
+   "options": [
+    "2010-2020",
+    "2015-2030",
+    "2020-2035",
+    "2000-2015"
+   ],
+   "correct": 1,
+   "subject": "Système éducatif marocain",
+   "explanation": "Élaborée par le Conseil supérieur de l'éducation : « Pour une école de l'équité, de la qualité et de la promotion » (2015-2030).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "L'enseignement est obligatoire au Maroc pour les enfants de…",
+   "options": [
+    "3 à 15 ans",
+    "4 à 16 ans",
+    "6 à 15 ans",
+    "7 à 18 ans"
+   ],
+   "correct": 2,
+   "subject": "Système éducatif marocain",
+   "explanation": "L'obligation scolaire concerne les 6-15 ans (la loi-cadre vise la généralisation du préscolaire 4-6 ans).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Quelle approche pédagogique officielle structure les curricula marocains depuis la Charte ?",
+   "options": [
+    "La pédagogie par objectifs",
+    "L'approche par compétences",
+    "La pédagogie traditionnelle",
+    "L'enseignement programmé"
+   ],
+   "correct": 1,
+   "subject": "Système éducatif marocain",
+   "explanation": "L'approche par compétences est le cadre officiel des curricula depuis la Charte (Livre blanc 2002).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Que sont les AREF ?",
+   "options": [
+    "Des associations de parents d'élèves",
+    "Des établissements publics régionaux chargés de la gestion de l'éducation",
+    "Des syndicats d'enseignants",
+    "Des écoles supérieures"
+   ],
+   "correct": 1,
+   "subject": "Système éducatif marocain",
+   "explanation": "Les Académies Régionales d'Éducation et de Formation gèrent l'école au niveau régional — elles recrutent les enseignants contractuels (أطر الأكاديميات).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Selon Piaget, le stade des opérations concrètes correspond à…",
+   "options": [
+    "0-2 ans",
+    "2-7 ans",
+    "7-11 ans",
+    "11 ans et plus"
+   ],
+   "correct": 2,
+   "subject": "Psychologie de l'enfant",
+   "explanation": "Sensori-moteur (0-2), préopératoire (2-7), opérations concrètes (7-11), formelles (11+).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "La motivation qui vient du plaisir d'apprendre lui-même est dite…",
+   "options": [
+    "Extrinsèque",
+    "Intrinsèque",
+    "Négative",
+    "Sociale"
+   ],
+   "correct": 1,
+   "subject": "Psychologie de l'enfant",
+   "explanation": "Motivation intrinsèque = agir pour l'intérêt de l'activité ; extrinsèque = pour la récompense.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "La métacognition désigne…",
+   "options": [
+    "La mémoire à long terme",
+    "La capacité à réfléchir sur ses propres processus d'apprentissage",
+    "L'intelligence émotionnelle",
+    "Le quotient intellectuel"
+   ],
+   "correct": 1,
+   "subject": "Psychologie de l'enfant",
+   "explanation": "« Apprendre à apprendre » : planifier, contrôler et réguler ses stratégies.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Chez Piaget, intégrer une nouvelle information à un schème existant s'appelle…",
+   "options": [
+    "Accommodation",
+    "Assimilation",
+    "Équilibration",
+    "Conservation"
+   ],
+   "correct": 1,
+   "subject": "Psychologie de l'enfant",
+   "explanation": "Assimilation = intégrer au schème existant ; accommodation = modifier le schème.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "La pédagogie coopérative fondée sur le travail libre et l'imprimerie scolaire est celle de…",
+   "options": [
+    "Montessori",
+    "Freinet",
+    "Decroly",
+    "Steiner"
+   ],
+   "correct": 1,
+   "subject": "Pédagogie & didactique",
+   "explanation": "Célestin Freinet : coopération, texte libre, correspondance scolaire.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "L'apprentissage significatif (rattacher le nouveau aux connaissances antérieures) est associé à…",
+   "options": [
+    "Ausubel",
+    "Skinner",
+    "Watson",
+    "Thorndike"
+   ],
+   "correct": 0,
+   "subject": "Théories d'apprentissage",
+   "explanation": "David Ausubel : un apprentissage est durable s'il s'ancre dans les acquis antérieurs.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "L'évaluation sommative intervient…",
+   "options": [
+    "Au début de l'apprentissage",
+    "Pendant l'apprentissage",
+    "À la fin d'une période d'apprentissage",
+    "Uniquement au baccalauréat"
+   ],
+   "correct": 2,
+   "subject": "Évaluation",
+   "explanation": "Elle dresse le bilan des acquis en fin de séquence, semestre ou année.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  },
+  {
+   "stem": "Le renforcement négatif consiste à…",
+   "options": [
+    "Punir l'élève",
+    "Retirer un stimulus désagréable pour encourager un comportement",
+    "Ignorer l'élève",
+    "Donner une mauvaise note"
+   ],
+   "correct": 1,
+   "subject": "Psychologie de l'enfant",
+   "explanation": "Renforcement négatif ≠ punition : on retire une contrainte pour renforcer le comportement.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-sciences-education"
+  }
+ ]
+}

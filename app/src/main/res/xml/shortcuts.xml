@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Long-press launcher shortcuts: jump straight to search or to followed offers. -->
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut android:shortcutId="search" android:enabled="true" android:icon="@drawable/ic_notif"
+        android:shortcutShortLabel="@string/tab_search">
+        <intent android:action="android.intent.action.VIEW" android:targetPackage="com.wadifainfo.app"
+            android:targetClass="com.wadifainfo.concours.MainActivity" android:data="wadifainfo://tab/1" />
+    </shortcut>
+    <shortcut android:shortcutId="saved" android:enabled="true" android:icon="@drawable/ic_notif"
+        android:shortcutShortLabel="@string/tab_saved">
+        <intent android:action="android.intent.action.VIEW" android:targetPackage="com.wadifainfo.app"
+            android:targetClass="com.wadifainfo.concours.MainActivity" android:data="wadifainfo://tab/2" />
+    </shortcut>
+</shortcuts>

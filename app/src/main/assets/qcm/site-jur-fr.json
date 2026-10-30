@@ -1,0 +1,431 @@
+{
+ "id": "site-jur-fr",
+ "kind": "practice",
+ "lang": "fr",
+ "version": 2,
+ "source": "Wadifa Info – QCM juridique – Sûreté nationale (DGSN)",
+ "titleFr": "QCM juridique – Sûreté nationale (DGSN)",
+ "titleAr": "QCM قانوني – الأمن الوطني",
+ "questions": [
+  {
+   "stem": "En quelle année la Constitution marocaine en vigueur a-t-elle été adoptée ?",
+   "options": [
+    "1996",
+    "2004",
+    "2011",
+    "2015"
+   ],
+   "correct": 2,
+   "subject": "Constitution",
+   "explanation": "Adoptée par référendum le 1er juillet 2011.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "De combien de chambres se compose le Parlement marocain ?",
+   "options": [
+    "Une seule",
+    "Deux",
+    "Trois",
+    "Quatre"
+   ],
+   "correct": 1,
+   "subject": "Constitution",
+   "explanation": "La Chambre des représentants et la Chambre des conseillers.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Combien de sièges compte la Chambre des représentants ?",
+   "options": [
+    "325",
+    "395",
+    "120",
+    "270"
+   ],
+   "correct": 1,
+   "subject": "Constitution",
+   "explanation": "395 membres élus au suffrage universel direct.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Pour quelle durée les membres de la Chambre des représentants sont-ils élus ?",
+   "options": [
+    "4 ans",
+    "5 ans",
+    "6 ans",
+    "9 ans"
+   ],
+   "correct": 1,
+   "subject": "Constitution",
+   "explanation": "Cinq ans, au suffrage universel direct.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Combien de membres compte la Chambre des conseillers depuis 2011 ?",
+   "options": [
+    "90",
+    "120",
+    "270",
+    "395"
+   ],
+   "correct": 1,
+   "subject": "Constitution",
+   "explanation": "120 membres, contre 270 avant la révision de 2011.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Pour quelle durée les conseillers sont-ils élus ?",
+   "options": [
+    "3 ans",
+    "5 ans",
+    "6 ans",
+    "9 ans"
+   ],
+   "correct": 2,
+   "subject": "Constitution",
+   "explanation": "Six ans, au suffrage indirect.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quelles sont les langues officielles du Royaume selon la Constitution ?",
+   "options": [
+    "L'arabe seulement",
+    "L'arabe et le français",
+    "L'arabe et l'amazighe",
+    "L'arabe, l'amazighe et le français"
+   ],
+   "correct": 2,
+   "subject": "Constitution",
+   "explanation": "L'article 5 consacre l'arabe et l'amazighe comme langues officielles.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quelle est la juridiction suprême du Royaume ?",
+   "options": [
+    "La cour d'appel",
+    "Le tribunal de première instance",
+    "La Cour de cassation",
+    "Le tribunal administratif"
+   ],
+   "correct": 2,
+   "subject": "Organisation judiciaire",
+   "explanation": "La Cour de cassation est au sommet de l'ordre judiciaire.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quel est l'ordre correct des degrés de juridiction ?",
+   "options": [
+    "Cour d'appel → première instance → cassation",
+    "Première instance → cour d'appel → cassation",
+    "Cassation → cour d'appel → première instance",
+    "Première instance → cassation → cour d'appel"
+   ],
+   "correct": 1,
+   "subject": "Organisation judiciaire",
+   "explanation": "On juge d'abord en première instance, puis en appel, puis en cassation.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Sous l'autorité de qui la police judiciaire exerce-t-elle ses missions ?",
+   "options": [
+    "Du wali",
+    "Du procureur du Roi (parquet)",
+    "Du président de la commune",
+    "Du directeur de l'école"
+   ],
+   "correct": 1,
+   "subject": "Droit pénal & procédure",
+   "explanation": "La police judiciaire agit sous la direction et le contrôle du parquet.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "La prolongation de la garde à vue nécessite :",
+   "options": [
+    "La seule décision de l'officier de police judiciaire",
+    "L'autorisation écrite du procureur du Roi",
+    "L'accord du maire",
+    "Aucune formalité"
+   ],
+   "correct": 1,
+   "subject": "Droit pénal & procédure",
+   "explanation": "La prolongation exige une autorisation écrite du procureur du Roi.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "À quel âge une personne devient-elle pénalement majeure au Maroc ?",
+   "options": [
+    "16 ans",
+    "18 ans",
+    "20 ans",
+    "21 ans"
+   ],
+   "correct": 1,
+   "subject": "Droit pénal & procédure",
+   "explanation": "La majorité pénale est fixée à 18 ans révolus.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Toute personne poursuivie est présumée :",
+   "options": [
+    "Coupable jusqu'à preuve du contraire",
+    "Innocente jusqu'à condamnation définitive",
+    "Coupable si elle est en détention",
+    "Innocente seulement devant la cour d'appel"
+   ],
+   "correct": 1,
+   "subject": "Libertés & droits",
+   "explanation": "La présomption d'innocence est garantie jusqu'à une condamnation définitive.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "La détention arbitraire est :",
+   "options": [
+    "Autorisée en cas d'urgence",
+    "Interdite",
+    "Laissée à l'appréciation de l'agent",
+    "Autorisée la nuit"
+   ],
+   "correct": 1,
+   "subject": "Libertés & droits",
+   "explanation": "Nul ne peut être arrêté, détenu ou puni hors des cas et formes prévus par la loi.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "En quelle année le Code de la famille (Moudawana) actuel a-t-il été adopté ?",
+   "options": [
+    "1993",
+    "2004",
+    "2011",
+    "2018"
+   ],
+   "correct": 1,
+   "subject": "Famille & nationalité",
+   "explanation": "La Moudawana a été adoptée en 2004.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quel est l'âge légal du mariage au Maroc ?",
+   "options": [
+    "15 ans",
+    "16 ans",
+    "18 ans",
+    "21 ans"
+   ],
+   "correct": 2,
+   "subject": "Famille & nationalité",
+   "explanation": "L'âge de la capacité au mariage est fixé à 18 ans.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Depuis la réforme de 2007, un enfant est marocain s'il est né :",
+   "options": [
+    "D'un père marocain uniquement",
+    "D'une mère marocaine uniquement",
+    "D'un père marocain ou d'une mère marocaine",
+    "Uniquement au Maroc"
+   ],
+   "correct": 2,
+   "subject": "Famille & nationalité",
+   "explanation": "La loi 62-06 (2007) a modifié l'article 6 : la mère transmet la nationalité comme le père.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Combien de postes le concours DGSN 2026 ouvre-t-il au total ?",
+   "options": [
+    "4 890",
+    "8 427",
+    "2 800",
+    "1 200"
+   ],
+   "correct": 1,
+   "subject": "Sûreté Nationale",
+   "explanation": "8 427 postes répartis sur six grades.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quel grade est accessible avec le baccalauréat ?",
+   "options": [
+    "Commissaire de police",
+    "Officier de police",
+    "Gardien de la paix",
+    "Inspecteur de police"
+   ],
+   "correct": 2,
+   "subject": "Sûreté Nationale",
+   "explanation": "Le gardien de la paix est recruté avec le baccalauréat (4 890 postes).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quelle est la taille minimale exigée des candidats masculins au grade de gardien de la paix ?",
+   "options": [
+    "1,60 m",
+    "1,67 m",
+    "1,70 m",
+    "1,73 m"
+   ],
+   "correct": 3,
+   "subject": "Sûreté Nationale",
+   "explanation": "1,73 m pour les hommes ; 1,67 m pour les femmes.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quel diplôme est exigé pour le concours d'inspecteur de police ?",
+   "options": [
+    "Le baccalauréat",
+    "Deux semestres universitaires validés",
+    "La licence",
+    "Le master"
+   ],
+   "correct": 1,
+   "subject": "Sûreté Nationale",
+   "explanation": "Deux semestres d'études universitaires au minimum (2 800 postes).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quel diplôme est exigé pour devenir commissaire de police ?",
+   "options": [
+    "Le baccalauréat",
+    "La licence",
+    "Le doctorat en médecine",
+    "Le DEUG"
+   ],
+   "correct": 1,
+   "subject": "Sûreté Nationale",
+   "explanation": "La licence en sciences juridiques, économiques, sociales, humaines ou de gestion.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "En quoi consiste l'épreuve sportive du concours DGSN ?",
+   "options": [
+    "Natation 200 m",
+    "Course de 1 500 m",
+    "Saut en hauteur",
+    "Escalade"
+   ],
+   "correct": 1,
+   "subject": "Sûreté Nationale",
+   "explanation": "Une course de 1 500 mètres.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Combien de dossiers de candidature un candidat peut-il déposer ?",
+   "options": [
+    "Un seul",
+    "Deux",
+    "Trois",
+    "Autant qu'il veut"
+   ],
+   "correct": 0,
+   "subject": "Sûreté Nationale",
+   "explanation": "Un seul dossier : on ne peut concourir que pour un seul grade.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quel pourcentage des postes est réservé aux anciens combattants et anciens militaires ?",
+   "options": [
+    "10%",
+    "15%",
+    "25%",
+    "50%"
+   ],
+   "correct": 2,
+   "subject": "Sûreté Nationale",
+   "explanation": "25% des postes leur sont réservés, ainsi qu'aux résistants et pupilles de la nation.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quelle acuité visuelle totale est exigée, sans correction ?",
+   "options": [
+    "10/10 au minimum",
+    "15/10 au minimum",
+    "20/10 au minimum",
+    "Aucune exigence"
+   ],
+   "correct": 1,
+   "subject": "Sûreté Nationale",
+   "explanation": "Au moins 15/10 au total, sans lunettes ni lentilles.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "À quelle distance le candidat doit-il entendre un chuchotement ?",
+   "options": [
+    "0,25 m",
+    "0,50 m",
+    "1 m",
+    "5 m"
+   ],
+   "correct": 1,
+   "subject": "Sûreté Nationale",
+   "explanation": "Un chuchotement à 0,50 m et une voix forte à 5 m.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Quand se déroulent les épreuves écrites du concours DGSN 2026 ?",
+   "options": [
+    "22 septembre 2026",
+    "23 septembre 2026",
+    "22 novembre 2026",
+    "29 décembre 2026"
+   ],
+   "correct": 2,
+   "subject": "Sûreté Nationale",
+   "explanation": "Le 22 novembre 2026 (le 29 novembre pour les commissaires principaux).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Les dossiers envoyés par courrier sont-ils acceptés ?",
+   "options": [
+    "Oui, sans condition",
+    "Oui, en recommandé",
+    "Non, le dépôt est en personne",
+    "Uniquement hors de Rabat"
+   ],
+   "correct": 2,
+   "subject": "Sûreté Nationale",
+   "explanation": "Le dépôt se fait en personne auprès du service de police le plus proche.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  },
+  {
+   "stem": "Jusqu'à quelle date le dossier de candidature peut-il être déposé ?",
+   "options": [
+    "22 septembre 2026",
+    "23 septembre 2026",
+    "30 septembre 2026",
+    "22 novembre 2026"
+   ],
+   "correct": 1,
+   "subject": "Sûreté Nationale",
+   "explanation": "L'inscription en ligne ferme le 22 septembre, le dépôt du dossier le 23 septembre 2026.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-juridique-dgsn"
+  }
+ ]
+}

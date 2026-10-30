@@ -1,0 +1,431 @@
+{
+ "id": "site-g51q_pbac-ar",
+ "kind": "practice",
+ "lang": "ar",
+ "version": 2,
+ "source": "وظيفة إنفو – مباريات ما بعد الباكالوريا",
+ "titleFr": "Concours post-bac",
+ "titleAr": "مباريات ما بعد الباكالوريا",
+ "questions": [
+  {
+   "stem": "ما نهاية (e^(2x) − 1) / x عندما يؤول x إلى 0؟",
+   "options": [
+    "0",
+    "2",
+    "1",
+    "+∞"
+   ],
+   "correct": 1,
+   "subject": "الرياضيات",
+   "explanation": "نكتب (e^(2x) − 1)/x = 2 × (e^(2x) − 1)/(2x). بوضع u = 2x يؤول إلى 0، لدينا (e^u − 1)/u تؤول إلى 1، إذن النهاية هي 2 × 1 = 2.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "ما مشتقة الدالة f(x) = x·ln(x) على المجال ]0 ; +∞[؟",
+   "options": [
+    "ln(x)",
+    "1/x",
+    "x·ln(x) + 1",
+    "ln(x) + 1"
+   ],
+   "correct": 3,
+   "subject": "الرياضيات",
+   "explanation": "مشتقة جداء (uv)' = u'v + uv' مع u = x و v = ln(x): f'(x) = 1 × ln(x) + x × (1/x) = ln(x) + 1.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "ما قيمة التكامل من 0 إلى 1 للدالة (2x + 1)؟",
+   "options": [
+    "2",
+    "1",
+    "3",
+    "1,5"
+   ],
+   "correct": 0,
+   "subject": "الرياضيات",
+   "explanation": "دالة أصلية لـ 2x + 1 هي x² + x. نحسب [x² + x] بين 0 و1: (1 + 1) − (0 + 0) = 2.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "(u_n) متتالية هندسية حدها الأول u₀ = 3 وأساسها 2. ما قيمة u₅؟",
+   "options": [
+    "48",
+    "192",
+    "96",
+    "64"
+   ],
+   "correct": 2,
+   "subject": "الرياضيات",
+   "explanation": "في متتالية هندسية: u_n = u₀ × qⁿ. إذن u₅ = 3 × 2⁵ = 3 × 32 = 96.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "ما معيار العدد العقدي z = 3 + 4i؟",
+   "options": [
+    "7",
+    "25",
+    "5",
+    "1"
+   ],
+   "correct": 2,
+   "subject": "الرياضيات",
+   "explanation": "|a + bi| = √(a² + b²) = √(9 + 16) = √25 = 5.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "نرمي نردين متوازنين. ما احتمال أن يكون المجموع 7؟",
+   "options": [
+    "1/6",
+    "1/12",
+    "7/36",
+    "1/36"
+   ],
+   "correct": 0,
+   "subject": "الرياضيات",
+   "explanation": "عدد الإمكانيات المتساوية الاحتمال 6 × 6 = 36. المجموع 7 نحصل عليه بـ (1,6) و(2,5) و(3,4) و(4,3) و(5,2) و(6,1)، أي 6 إمكانيات: 6/36 = 1/6.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "يُترك جسم دون سرعة بدئية من ارتفاع 20 m (g = 10 m/s²، الاحتكاكات مهملة). ما مدة السقوط؟",
+   "options": [
+    "1 s",
+    "4 s",
+    "√2 s",
+    "2 s"
+   ],
+   "correct": 3,
+   "subject": "الفيزياء",
+   "explanation": "في السقوط الحر دون سرعة بدئية: h = ½ g t²، إذن t = √(2h/g) = √(40/10) = √4 = 2 s.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "ثنائي القطب RC مع R = 1 kΩ و C = 100 µF. ما ثابتة الزمن τ؟",
+   "options": [
+    "1 ms",
+    "0,1 s",
+    "10 ms",
+    "1 s"
+   ],
+   "correct": 1,
+   "subject": "الفيزياء",
+   "explanation": "τ = R × C = 1000 Ω × 100 × 10⁻⁶ F = 0,1 s.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "عمر النصف لنويدة مشعة هو 8 أيام. ما الجزء المتبقي من عينة بعد 24 يوماً؟",
+   "options": [
+    "1/2",
+    "1/8",
+    "1/4",
+    "1/3"
+   ],
+   "correct": 1,
+   "subject": "الفيزياء",
+   "explanation": "24 يوماً = 3 أعمار نصف. عند كل عمر نصف يقسم عدد النوى على 2: (1/2)³ = 1/8.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "موجة صوتية ترددها 500 Hz تنتشر بسرعة 340 m/s. ما طول موجتها؟",
+   "options": [
+    "1,47 m",
+    "170 m",
+    "0,34 m",
+    "0,68 m"
+   ],
+   "correct": 3,
+   "subject": "الفيزياء",
+   "explanation": "λ = v / f = 340 / 500 = 0,68 m.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "في دارة LC مثالية، إذا ضربنا C في 4، فإن الدور الخاص T₀:",
+   "options": [
+    "يُضرب في 2",
+    "لا يتغير",
+    "يُضرب في 4",
+    "يُقسم على 2"
+   ],
+   "correct": 0,
+   "subject": "الفيزياء",
+   "explanation": "T₀ = 2π√(LC). إذا أصبحت السعة 4C: T₀' = 2π√(4LC) = 2 × 2π√(LC) = 2 T₀.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "في حركة دائرية منتظمة، متجهة التسارع تكون:",
+   "options": [
+    "منعدمة",
+    "مماسة للمسار",
+    "جاذبة مركزية وقيمتها v²/R",
+    "موجهة نحو خارج الدائرة"
+   ],
+   "correct": 2,
+   "subject": "الفيزياء",
+   "explanation": "قيمة السرعة ثابتة لكن اتجاهها يتغير: التسارع منظمي موجه نحو المركز، وقيمته a = v²/R.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "ما pH محلول لحمض الكلوريدريك تركيزه 10⁻² mol/L؟",
+   "options": [
+    "1",
+    "12",
+    "2",
+    "7"
+   ],
+   "correct": 2,
+   "subject": "الكيمياء",
+   "explanation": "HCl حمض قوي: [H₃O⁺] = 10⁻² mol/L، إذن pH = −log(10⁻²) = 2.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "عند 25 °C، محلول مائي pH يساوي 9 يكون:",
+   "options": [
+    "قاعدياً",
+    "حمضياً",
+    "محايداً",
+    "مستحيلاً"
+   ],
+   "correct": 0,
+   "subject": "الكيمياء",
+   "explanation": "عند 25 °C يكون Ke = 10⁻¹⁴ ومحلول محايد pH = 7. بما أن 9 > 7 فإن [H₃O⁺] < [HO⁻] والمحلول قاعدي.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "ما الكتلة المولية للماء H₂O (H = 1 g/mol، O = 16 g/mol)؟",
+   "options": [
+    "17 g/mol",
+    "16 g/mol",
+    "20 g/mol",
+    "18 g/mol"
+   ],
+   "correct": 3,
+   "subject": "الكيمياء",
+   "explanation": "M(H₂O) = 2 × 1 + 16 = 18 g/mol.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "ما كمية المادة في 5,85 g من NaCl (Na = 23 g/mol، Cl = 35,5 g/mol)؟",
+   "options": [
+    "1 mol",
+    "0,1 mol",
+    "0,01 mol",
+    "0,5 mol"
+   ],
+   "correct": 1,
+   "subject": "الكيمياء",
+   "explanation": "M(NaCl) = 23 + 35,5 = 58,5 g/mol؛ n = m / M = 5,85 / 58,5 = 0,1 mol.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "في عمود أثناء اشتغاله، تحدث الأكسدة عند:",
+   "options": [
+    "الكاثود",
+    "الأنود",
+    "القنطرة الملحية",
+    "الإلكترودين معاً"
+   ],
+   "correct": 1,
+   "subject": "الكيمياء",
+   "explanation": "بالتعريف، الأنود هو الإلكترود الذي تحدث عنده الأكسدة (فقدان الإلكترونات)، والاختزال يحدث عند الكاثود. وفي العمود يكون الأنود هو القطب السالب.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "تفاعل الأسترة بين حمض كربوكسيلي وكحول يكون:",
+   "options": [
+    "سريعاً وكلياً",
+    "سريعاً ومحدوداً",
+    "بطيئاً وكلياً",
+    "بطيئاً ومحدوداً"
+   ],
+   "correct": 3,
+   "subject": "الكيمياء",
+   "explanation": "الأسترة تفاعل بطيء ومحدود بسبب حلمأة الإستر (حالة توازن). الحفاز (H⁺) أو التسخين يسرعانه دون تغيير حالة التوازن، أما وفرة أحد المتفاعلين أو إزالة الماء فترفع المردود.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "خلال انحلال السكر، تعطي جزيئة غلوكوز واحدة:",
+   "options": [
+    "جزيئتين من حمض البيروفيك وربحاً صافياً من 2 ATP",
+    "جزيئة بيروفات و38 ATP",
+    "6 CO₂ مباشرة",
+    "جزيئتين من الإيثانول"
+   ],
+   "correct": 0,
+   "subject": "علوم الحياة والأرض",
+   "explanation": "يتم انحلال السكر في الجبلة الشفافة: تتحول جزيئة غلوكوز (C6) إلى جزيئتين من حمض البيروفيك (C3) مع حصيلة صافية من 2 ATP و2 NADH,H⁺، دون استهلاك O₂.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "انطلاقاً من خلية ثنائية الصيغة الصبغية (2n)، يعطي الانقسام الاختزالي:",
+   "options": [
+    "خليتين 2n",
+    "أربع خلايا 2n",
+    "أربع خلايا n",
+    "خليتين n"
+   ],
+   "correct": 2,
+   "subject": "علوم الحياة والأرض",
+   "explanation": "يتكون الانقسام الاختزالي من انقسامين متتاليين (منصف ثم تعادلي) بعد مضاعفة واحدة لـ ADN، فيعطي أربع خلايا أحادية الصيغة الصبغية (n).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "تزاوج Aa × Aa (الحليل A سائد على a). ما النسب المظهرية المنتظرة؟",
+   "options": [
+    "1/2 [A] ؛ 1/2 [a]",
+    "1/4 [A] ؛ 1/2 [Aa] ؛ 1/4 [a]",
+    "3/4 [A] ؛ 1/4 [a]",
+    "100 % [A]"
+   ],
+   "correct": 2,
+   "subject": "علوم الحياة والأرض",
+   "explanation": "شبكة التزاوج: الأنماط الوراثية 1/4 AA و1/2 Aa و1/4 aa. AA وAa لهما المظهر السائد [A]: إذن 3/4 [A] و1/4 [a].",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "عند حقيقيات النوى، يتم تركيب ARN الرسول خلال:",
+   "options": [
+    "الاستنساخ داخل النواة",
+    "مضاعفة ADN",
+    "الترجمة في السيتوبلازم",
+    "الانقسام غير المباشر"
+   ],
+   "correct": 0,
+   "subject": "علوم الحياة والأرض",
+   "explanation": "الاستنساخ ينسخ أحد شريطي ADN إلى ARNm داخل النواة، ثم ينتقل ARNm إلى السيتوبلازم حيث تترجمه الريبوزومات إلى بروتين.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "ما مضاد الوحدة الرمزية لـ ARNt الذي يتكامل مع الوحدة الرمزية AUG لـ ARNm؟",
+   "options": [
+    "TAC",
+    "AUG",
+    "GUA",
+    "UAC"
+   ],
+   "correct": 3,
+   "subject": "علوم الحياة والأرض",
+   "explanation": "التكامل يكون A–U وU–A وG–C: AUG ↔ UAC. ولا يوجد التيمين (T) في ARN، لذا يستبعد TAC.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "ما الأيون الذي تحرره الشبكة الساركوبلازمية فيُطلق التقلص العضلي؟",
+   "options": [
+    "Na⁺",
+    "Ca²⁺",
+    "K⁺",
+    "Cl⁻"
+   ],
+   "correct": 1,
+   "subject": "علوم الحياة والأرض",
+   "explanation": "يؤدي جهد العمل العضلي إلى تحرير Ca²⁺ من الشبكة الساركوبلازمية، فيحرر Ca²⁺ مواقع تثبيت الميوزين على الأكتين ويسمح بتكوين قناطر أكتين-ميوزين (مع حلمأة ATP).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "أكمل المتتالية: 3، 7، 15، 31، …؟",
+   "options": [
+    "47",
+    "63",
+    "62",
+    "64"
+   ],
+   "correct": 1,
+   "subject": "الاستعداد والمنطق",
+   "explanation": "كل حد = ضعف الحد السابق + 1: 3×2+1 = 7، 7×2+1 = 15، 15×2+1 = 31، 31×2+1 = 63.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "سلعة ثمنها 200 درهم ارتفع ثمنها بـ 20 % ثم انخفض بـ 20 %. ما ثمنها النهائي؟",
+   "options": [
+    "200 درهم",
+    "196 درهم",
+    "180 درهم",
+    "192 درهم"
+   ],
+   "correct": 3,
+   "subject": "الاستعداد والمنطق",
+   "explanation": "200 × 1,2 = 240 درهم، ثم 240 × 0,8 = 192 درهم. النسب تُضرب: 1,2 × 0,8 = 0,96 أي انخفاض بـ 4 %.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "قطار يقطع 150 km في ساعة و30 دقيقة. ما سرعته المتوسطة؟",
+   "options": [
+    "100 km/h",
+    "90 km/h",
+    "120 km/h",
+    "150 km/h"
+   ],
+   "correct": 0,
+   "subject": "الاستعداد والمنطق",
+   "explanation": "ساعة و30 دقيقة = 1,5 h؛ v = d / t = 150 / 1,5 = 100 km/h.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "كل A هو B، ولا B هو C. يمكن أن نستنتج أن:",
+   "options": [
+    "بعض A هي C",
+    "كل C هي A",
+    "لا A هو C",
+    "لا يمكن استنتاج شيء"
+   ],
+   "correct": 2,
+   "subject": "الاستعداد والمنطق",
+   "explanation": "لو كان أحد A من C، لكان أيضاً من B (لأن كل A هو B)، أي B هو C، وهذا مستبعد. إذن لا A هو C.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "4 عمال ينجزون عملاً في 6 أيام. بنفس الوتيرة، كم يوماً يلزم 6 عمال؟",
+   "options": [
+    "9 أيام",
+    "3 أيام",
+    "4 أيام",
+    "5 أيام"
+   ],
+   "correct": 2,
+   "subject": "الاستعداد والمنطق",
+   "explanation": "تناسب عكسي: العمل يساوي 4 × 6 = 24 يوم-عامل؛ 24 / 6 = 4 أيام.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  },
+  {
+   "stem": "الطبيب بالنسبة للمستشفى كالقاضي بالنسبة لـ:",
+   "options": [
+    "المحكمة",
+    "القانون",
+    "المحامي",
+    "السجن"
+   ],
+   "correct": 0,
+   "subject": "الاستعداد والمنطق",
+   "explanation": "العلاقة «مهني ← مكان مزاولته»: الطبيب يعمل في المستشفى، والقاضي في المحكمة.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D9%85%D8%A8%D8%A7%D8%B1%D9%8A%D8%A7%D8%AA-%D9%85%D8%A7-%D8%A8%D8%B9%D8%AF-%D8%A7%D9%84%D8%A8%D8%A7%D9%83%D8%A7%D9%84%D9%88%D8%B1%D9%8A%D8%A7"
+  }
+ ]
+}

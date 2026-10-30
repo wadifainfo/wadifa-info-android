@@ -1,0 +1,431 @@
+{
+ "id": "site-g51q_jus-fr",
+ "kind": "practice",
+ "lang": "fr",
+ "version": 2,
+ "source": "Wadifa Info – Concours greffe – Justice",
+ "titleFr": "Concours greffe – Justice",
+ "titleAr": "مباراة كتابة الضبط – العدل",
+ "questions": [
+  {
+   "stem": "Où se trouve le siège de la Cour de cassation ?",
+   "options": [
+    "Casablanca",
+    "Rabat",
+    "Fès",
+    "Marrakech"
+   ],
+   "correct": 1,
+   "subject": "Organisation judiciaire (loi 38.15)",
+   "explanation": "Article 1 de la loi 38.15 : l'organisation judiciaire comprend la Cour de cassation, « dont le siège est à Rabat ».",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quand commence et se termine l'année judiciaire ?",
+   "options": [
+    "1er septembre – 31 août",
+    "1er octobre – 30 septembre",
+    "1er juillet – 30 juin",
+    "1er janvier – 31 décembre"
+   ],
+   "correct": 3,
+   "subject": "Organisation judiciaire (loi 38.15)",
+   "explanation": "Article 8 de la loi 38.15 : l'année judiciaire commence le 1er janvier et se termine le 31 décembre ; elle est ouverte en audience solennelle début janvier.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Sauf texte contraire, par combien de conseillers la cour d'appel rend-elle ses arrêts ?",
+   "options": [
+    "Trois conseillers",
+    "Un conseiller unique",
+    "Cinq conseillers",
+    "Sept conseillers"
+   ],
+   "correct": 0,
+   "subject": "Organisation judiciaire (loi 38.15)",
+   "explanation": "Article 71 de la loi 38.15 : trois conseillers, dont un président, assistés d'un greffier.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Combien de conseillers composent la formation de jugement de la Cour de cassation (sauf texte contraire) ?",
+   "options": [
+    "Trois",
+    "Sept",
+    "Cinq",
+    "Neuf"
+   ],
+   "correct": 2,
+   "subject": "Organisation judiciaire (loi 38.15)",
+   "explanation": "Article 87 de la loi 38.15 : cinq conseillers, assistés d'un greffier ; la présence du ministère public est obligatoire à toutes les audiences.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Devant le tribunal de première instance, qui juge les actions réelles immobilières et mixtes ?",
+   "options": [
+    "Un juge unique",
+    "Le président seul, en référé",
+    "Une formation de trois juges",
+    "Le juge de proximité"
+   ],
+   "correct": 2,
+   "subject": "Organisation judiciaire (loi 38.15)",
+   "explanation": "Article 51 de la loi 38.15 : le juge unique est la règle, sauf dans les cas listés, dont les actions réelles immobilières et mixtes, jugées par trois juges dont le président.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Devant les chambres de proximité, la procédure est :",
+   "options": [
+    "Orale, et sans frais judiciaires pour les personnes physiques",
+    "Écrite, avec avocat obligatoire",
+    "Écrite, avec une taxe fixe",
+    "Orale, mais réservée aux sociétés"
+   ],
+   "correct": 0,
+   "subject": "Organisation judiciaire (loi 38.15)",
+   "explanation": "Article 52 de la loi 38.15 : la procédure devant les chambres de proximité est orale et exonérée des frais judiciaires pour les demandes des personnes physiques ; le juge siège seul, assisté d'un greffier.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Qui est le supérieur hiérarchique des fonctionnaires du greffe dans chaque tribunal ?",
+   "options": [
+    "Le procureur du Roi",
+    "Le bâtonnier",
+    "Le directeur régional de la Justice",
+    "Le chef du greffe (et le chef du greffe du parquet pour ses agents)"
+   ],
+   "correct": 3,
+   "subject": "Organisation judiciaire (loi 38.15)",
+   "explanation": "Article 23 de la loi 38.15 : le chef du greffe et le chef du greffe du parquet sont, chacun pour ce qui le concerne, les supérieurs hiérarchiques des fonctionnaires ; ils évaluent leur travail et gèrent leurs congés.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quand la loi 58.25 relative à la procédure civile est-elle entrée en vigueur ?",
+   "options": [
+    "Dès sa publication",
+    "Six mois après sa publication au Bulletin officiel",
+    "Trois mois après sa publication",
+    "Le 1er janvier 2027"
+   ],
+   "correct": 1,
+   "subject": "Procédure civile (loi 58.25)",
+   "explanation": "Article 643 de la loi 58.25 : entrée en vigueur six mois après la publication au BO (BO n° 7485 du 23 février 2026). Les voies de recours de la nouvelle loi ne s'appliquent pas aux jugements rendus avant cette date.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quel texte la loi 58.25 abroge-t-elle ?",
+   "options": [
+    "La loi 22.01 (procédure pénale)",
+    "Le dahir 1.74.447 de 1974 approuvant l'ancien Code de procédure civile",
+    "Le Dahir des obligations et contrats",
+    "La loi 38.15 (organisation judiciaire)"
+   ],
+   "correct": 1,
+   "subject": "Procédure civile (loi 58.25)",
+   "explanation": "Article 644 de la loi 58.25 : abrogation, dès son entrée en vigueur, du dahir 1.74.447 du 28 septembre 1974 (ancien CPC), ainsi que de dispositions des lois 42.10 (proximité) et 53.95 (tribunaux de commerce).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quel est le délai d'appel des jugements des juridictions du premier degré ?",
+   "options": [
+    "8 jours",
+    "15 jours",
+    "60 jours",
+    "30 jours à compter de la notification"
+   ],
+   "correct": 3,
+   "subject": "Procédure civile (loi 58.25)",
+   "explanation": "Article 204 de la loi 58.25 : 30 jours à compter de la notification ; le délai d'appel et l'appel lui-même suspendent l'exécution, sauf exécution provisoire.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Dans quel délai peut-on former opposition contre un jugement par défaut non susceptible d'appel ?",
+   "options": [
+    "15 jours à compter de la notification",
+    "8 jours",
+    "10 jours",
+    "30 jours"
+   ],
+   "correct": 0,
+   "subject": "Procédure civile (loi 58.25)",
+   "explanation": "Article 200 de la loi 58.25 : 15 jours à compter de la notification ; l'acte de notification avertit la partie qu'elle perd ce droit à l'expiration du délai.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Sauf disposition spéciale, quel est le délai du pourvoi en cassation en matière civile ?",
+   "options": [
+    "10 jours",
+    "15 jours",
+    "30 jours à compter de la notification",
+    "2 mois"
+   ],
+   "correct": 2,
+   "subject": "Procédure civile (loi 58.25)",
+   "explanation": "Article 380 de la loi 58.25 : 30 jours à compter de la notification du jugement à la personne ou à son domicile réel ou élu. Le pourvoi vaut renonciation à l'opposition.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quelle est la compétence du juge de proximité ?",
+   "options": [
+    "Toutes les affaires jusqu'à 20 000 DH",
+    "Les affaires de famille de faible valeur",
+    "Actions personnelles et mobilières de moins de 5 000 DH",
+    "Les expulsions de locaux d'habitation"
+   ],
+   "correct": 2,
+   "subject": "Procédure civile (loi 58.25)",
+   "explanation": "Article 331 de la loi 58.25 : actions personnelles et mobilières d'une valeur inférieure à 5 000 DH, à l'exclusion de la famille, de l'immobilier, du social, de l'administratif et des expulsions.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Jusqu'à quel montant le tribunal de première instance statue-t-il en premier et dernier ressort ?",
+   "options": [
+    "10 000 DH",
+    "5 000 DH",
+    "20 000 DH",
+    "30 000 DH"
+   ],
+   "correct": 0,
+   "subject": "Procédure civile (loi 58.25)",
+   "explanation": "Article 30 de la loi 58.25 : en premier et dernier ressort jusqu'à 10 000 DH ; au-delà, à charge d'appel. L'article 32 ouvre une demande d'annulation devant le président dans 15 jours pour certains vices.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Le pourvoi en cassation est exclu contre les jugements rendus sur des demandes ne dépassant pas :",
+   "options": [
+    "10 000 DH",
+    "20 000 DH",
+    "80 000 DH",
+    "30 000 DH"
+   ],
+   "correct": 3,
+   "subject": "Procédure civile (loi 58.25)",
+   "explanation": "Article 375 de la loi 58.25 : la Cour de cassation ne connaît pas des jugements sur des demandes ne dépassant pas 30 000 DH, ni des demandes de loyers et charges ou de révision du loyer.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quelle somme faut-il consigner pour une requête en rétractation devant un tribunal du premier degré ?",
+   "options": [
+    "1 000 DH",
+    "3 000 DH",
+    "5 000 DH",
+    "Aucune somme"
+   ],
+   "correct": 1,
+   "subject": "Procédure civile (loi 58.25)",
+   "explanation": "Article 430 de la loi 58.25 : consignation de 3 000 DH en premier degré, 4 000 DH en second degré et 5 000 DH devant la Cour de cassation ; la requête est formée dans les 30 jours de la notification.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "En cas de doute, la loi 22.01 prévoit que :",
+   "options": [
+    "Le doute profite à la victime",
+    "Le doute profite à l'accusé",
+    "Le juge ordonne une nouvelle enquête",
+    "Le parquet tranche"
+   ],
+   "correct": 1,
+   "subject": "Procédure pénale (loi 22.01)",
+   "explanation": "Article 1 de la loi 22.01 : tout suspect ou accusé est présumé innocent jusqu'à une condamnation définitive, et « le doute profite à l'accusé ».",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quel est le délai de prescription de l'action publique pour un délit ?",
+   "options": [
+    "1 année",
+    "10 années",
+    "15 années",
+    "4 années grégoriennes révolues"
+   ],
+   "correct": 3,
+   "subject": "Procédure pénale (loi 22.01)",
+   "explanation": "Article 5 de la loi 22.01 : 15 ans pour les crimes, 4 ans pour les délits et 1 an pour les contraventions, à compter du jour de l'infraction.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quelle est la durée initiale maximale de la garde à vue de droit commun (flagrance) ?",
+   "options": [
+    "48 heures",
+    "24 heures",
+    "72 heures",
+    "96 heures"
+   ],
+   "correct": 0,
+   "subject": "Procédure pénale (loi 22.01)",
+   "explanation": "Article 66 de la loi 22.01 : 48 heures au maximum à compter de l'arrestation, le parquet étant avisé immédiatement.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Comment peut-on prolonger la garde à vue de droit commun (flagrance) ?",
+   "options": [
+    "De 48 heures, renouvelable",
+    "De 96 heures sur décision de la police",
+    "De 24 heures, une seule fois, sur autorisation écrite et motivée du parquet",
+    "Elle n'est jamais prolongeable"
+   ],
+   "correct": 2,
+   "subject": "Procédure pénale (loi 22.01)",
+   "explanation": "Article 66-2 de la loi 22.01 : prolongation de 24 heures une seule fois, sur autorisation écrite et motivée du parquet (atteinte à la sûreté de l'État : 96 heures prolongeables une fois ; terrorisme : 96 heures prolongeables deux fois).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Combien de temps dure au maximum l'entretien avec l'avocat pendant la garde à vue ?",
+   "options": [
+    "15 minutes",
+    "1 heure",
+    "30 minutes",
+    "Sans limite"
+   ],
+   "correct": 2,
+   "subject": "Procédure pénale (loi 22.01)",
+   "explanation": "Article 66-2 de la loi 22.01 : contact dès la première heure, pour 30 minutes au maximum, sous le contrôle de l'officier de police judiciaire et dans des conditions garantissant la confidentialité.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "En matière délictuelle, quelle est la durée de la détention préventive ordonnée par le juge d'instruction ?",
+   "options": [
+    "Un mois, prolongeable une seule fois",
+    "Deux mois, prolongeables deux fois",
+    "Trois mois",
+    "Six mois"
+   ],
+   "correct": 0,
+   "subject": "Procédure pénale (loi 22.01)",
+   "explanation": "Article 176 de la loi 22.01 (modifié par la loi 03.23) : un mois, prolongeable une seule fois pour la même durée par ordonnance motivée. En matière criminelle (art. 177) : deux mois, prolongeables deux fois.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Délai d'appel d'un jugement correctionnel rendu contradictoirement :",
+   "options": [
+    "5 jours",
+    "15 jours",
+    "30 jours",
+    "10 jours à compter du prononcé"
+   ],
+   "correct": 3,
+   "subject": "Procédure pénale (loi 22.01)",
+   "explanation": "Article 400 de la loi 22.01 : dix jours à compter du prononcé lorsque le jugement est rendu après débats contradictoires ; dans les autres cas prévus par l'article, à compter de la notification.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quel est le délai du pourvoi en cassation en matière pénale ?",
+   "options": [
+    "15 jours",
+    "10 jours à compter du prononcé de la décision",
+    "30 jours à compter de la notification",
+    "60 jours"
+   ],
+   "correct": 1,
+   "subject": "Procédure pénale (loi 22.01)",
+   "explanation": "Article 527 de la loi 22.01 : dix jours à compter du jour où la décision attaquée a été rendue, sauf disposition spéciale.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quels cadres composent le corps du greffe ?",
+   "options": [
+    "Greffiers en chef et huissiers",
+    "Commissaires judiciaires, rédacteurs judiciaires et secrétaires-greffiers",
+    "Administrateurs, techniciens et adjoints",
+    "Notaires, adouls et greffiers"
+   ],
+   "correct": 1,
+   "subject": "Statut du corps du greffe",
+   "explanation": "Article 5 du décret 2.11.473 : trois cadres — commissaires judiciaires (منتدبون قضائيون), rédacteurs judiciaires (محررون قضائيون) et secrétaires-greffiers (كتاب الضبط).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quel diplôme permet de passer le concours de commissaire judiciaire de 3e grade ?",
+   "options": [
+    "Le baccalauréat",
+    "Le DEUG",
+    "Le doctorat",
+    "La licence (fondamentale ou professionnelle)"
+   ],
+   "correct": 3,
+   "subject": "Statut du corps du greffe",
+   "explanation": "Article 23 du décret 2.11.473 : concours ouvert aux titulaires de la licence (ou licence professionnelle) et diplômes reconnus équivalents ; recrutement aussi parmi les lauréats du cycle de gestion administrative de l'ENA.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Et pour le grade de commissaire judiciaire de 2e grade ?",
+   "options": [
+    "Le master (ou DESA/DESS)",
+    "La licence",
+    "Le DUT",
+    "Le baccalauréat + 3 ans d'ancienneté"
+   ],
+   "correct": 0,
+   "subject": "Statut du corps du greffe",
+   "explanation": "Article 24 du décret 2.11.473 : concours ouvert aux titulaires du master ou master spécialisé, du DESA ou du DESS (ou diplômes équivalents fixés par arrêté).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quel diplôme ouvre le concours de rédacteur judiciaire de 3e grade ?",
+   "options": [
+    "Le baccalauréat",
+    "La licence",
+    "Le diplôme de technicien spécialisé (formation professionnelle)",
+    "Le master"
+   ],
+   "correct": 2,
+   "subject": "Statut du corps du greffe",
+   "explanation": "Article 27 du décret 2.11.473 : technicien spécialisé (ou diplôme équivalent). Le rédacteur judiciaire de 4e grade (art. 26) est recruté avec le DEUG/DEUP ou le diplôme de technicien.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Quel diplôme est exigé pour le concours de secrétaire-greffier de 3e grade ?",
+   "options": [
+    "Le certificat d'études primaires",
+    "Le DEUG",
+    "Le baccalauréat ou un diplôme équivalent",
+    "La licence"
+   ],
+   "correct": 2,
+   "subject": "Statut du corps du greffe",
+   "explanation": "Article 29 du décret 2.11.473 : concours ouvert aux titulaires du baccalauréat ou d'un diplôme équivalent.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  },
+  {
+   "stem": "Combien dure le stage avant la titularisation des lauréats du concours ?",
+   "options": [
+    "Un an, prolongeable une seule fois",
+    "Six mois",
+    "Deux ans fermes",
+    "Aucun stage"
+   ],
+   "correct": 0,
+   "subject": "Statut du corps du greffe",
+   "explanation": "Article 35 du décret 2.11.473 (modifié en 2024) : une année de stage prolongeable une fois ; les stagiaires suivent une formation spéciale d'au moins six mois (art. 35 bis).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-concours-greffe-justice"
+  }
+ ]
+}

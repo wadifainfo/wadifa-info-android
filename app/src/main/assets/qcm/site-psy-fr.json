@@ -1,0 +1,445 @@
+{
+ "id": "site-psy-fr",
+ "kind": "practice",
+ "lang": "fr",
+ "version": 2,
+ "source": "Wadifa Info – Tests psychotechniques",
+ "titleFr": "Tests psychotechniques",
+ "titleAr": "الاختبارات النفسوتقنية",
+ "questions": [
+  {
+   "stem": "Complétez la série : 2, 6, 12, 20, 30, … ?",
+   "options": [
+    "36",
+    "40",
+    "42",
+    "44"
+   ],
+   "correct": 2,
+   "subject": "Séries numériques",
+   "explanation": "Les écarts augmentent de 2 : +4, +6, +8, +10, +12 → 42.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Complétez : 3, 6, 12, 24, … ?",
+   "options": [
+    "36",
+    "42",
+    "48",
+    "60"
+   ],
+   "correct": 2,
+   "subject": "Séries numériques",
+   "explanation": "Chaque terme est le double du précédent : 24 × 2 = 48.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Complétez : 1, 1, 2, 3, 5, 8, … ?",
+   "options": [
+    "11",
+    "12",
+    "13",
+    "15"
+   ],
+   "correct": 2,
+   "subject": "Séries numériques",
+   "explanation": "Suite de Fibonacci : chaque terme = somme des deux précédents (5+8=13).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Complétez : 81, 27, 9, 3, … ?",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "1,5"
+   ],
+   "correct": 1,
+   "subject": "Séries numériques",
+   "explanation": "Division par 3 à chaque étape : 3 ÷ 3 = 1.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Complétez : 5, 10, 8, 16, 14, 28, … ?",
+   "options": [
+    "24",
+    "26",
+    "30",
+    "56"
+   ],
+   "correct": 1,
+   "subject": "Séries numériques",
+   "explanation": "Alternance ×2 puis −2 : 28 − 2 = 26.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Complétez : 1, 4, 9, 16, 25, … ?",
+   "options": [
+    "30",
+    "32",
+    "36",
+    "49"
+   ],
+   "correct": 2,
+   "subject": "Séries numériques",
+   "explanation": "Ce sont les carrés parfaits : 6² = 36.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Complétez la série de lettres : A, C, F, J, … ?",
+   "options": [
+    "M",
+    "N",
+    "O",
+    "P"
+   ],
+   "correct": 2,
+   "subject": "Séries numériques",
+   "explanation": "Les sauts augmentent : +2, +3, +4, +5 → O.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Si avant-hier était samedi, quel jour serons-nous demain ?",
+   "options": [
+    "Lundi",
+    "Mardi",
+    "Mercredi",
+    "Dimanche"
+   ],
+   "correct": 1,
+   "subject": "Logique",
+   "explanation": "Avant-hier samedi → aujourd'hui lundi → demain mardi.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Tous les fonctionnaires de ce bureau parlent français. Karim travaille dans ce bureau. Donc…",
+   "options": [
+    "Karim parle français",
+    "Karim est traducteur",
+    "Karim ne parle que français",
+    "On ne peut rien conclure"
+   ],
+   "correct": 0,
+   "subject": "Logique",
+   "explanation": "Syllogisme direct : si tous les membres ont la propriété, Karim l'a aussi.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Trouvez l'intrus : 121, 144, 169, 150, 196",
+   "options": [
+    "121",
+    "144",
+    "150",
+    "196"
+   ],
+   "correct": 2,
+   "subject": "Logique",
+   "explanation": "Tous sont des carrés parfaits (11², 12², 13², 14²) sauf 150.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Ahmed est plus grand que Youssef. Youssef est plus grand qu'Omar. Qui est le plus petit ?",
+   "options": [
+    "Ahmed",
+    "Youssef",
+    "Omar",
+    "Impossible à savoir"
+   ],
+   "correct": 2,
+   "subject": "Logique",
+   "explanation": "Ahmed > Youssef > Omar : Omar est le plus petit.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Dans une course, vous doublez le deuxième. Quelle est votre position ?",
+   "options": [
+    "Premier",
+    "Deuxième",
+    "Troisième",
+    "Quatrième"
+   ],
+   "correct": 1,
+   "subject": "Logique",
+   "explanation": "En doublant le 2e, vous prenez sa place : 2e (pas 1er).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Un père a 3 fois l'âge de son fils. La somme de leurs âges est 48 ans. Quel est l'âge du fils ?",
+   "options": [
+    "10 ans",
+    "12 ans",
+    "14 ans",
+    "16 ans"
+   ],
+   "correct": 1,
+   "subject": "Logique",
+   "explanation": "x + 3x = 48 → x = 12 ans (le père a 36 ans).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Main est à gant ce que pied est à…",
+   "options": [
+    "Jambe",
+    "Chaussette",
+    "Marche",
+    "Doigt"
+   ],
+   "correct": 1,
+   "subject": "Analogies",
+   "explanation": "Le gant couvre la main comme la chaussette couvre le pied.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Médecin est à hôpital ce que professeur est à…",
+   "options": [
+    "Livre",
+    "École",
+    "Élève",
+    "Tableau"
+   ],
+   "correct": 1,
+   "subject": "Analogies",
+   "explanation": "Le lieu d'exercice du métier : hôpital / école.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Trouvez l'intrus :",
+   "options": [
+    "Sebou",
+    "Moulouya",
+    "Toubkal",
+    "Draa"
+   ],
+   "correct": 2,
+   "subject": "Analogies",
+   "explanation": "Toubkal est une montagne, les autres sont des fleuves.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Rare est à fréquent ce que lent est à…",
+   "options": [
+    "Immobile",
+    "Rapide",
+    "Long",
+    "Prudent"
+   ],
+   "correct": 1,
+   "subject": "Analogies",
+   "explanation": "Relation d'antonymie : rare/fréquent = lent/rapide.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Combien font 15% de 240 ?",
+   "options": [
+    "24",
+    "32",
+    "36",
+    "48"
+   ],
+   "correct": 2,
+   "subject": "Calcul rapide",
+   "explanation": "240 × 0,15 = 36.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Un article coûte 200 DH. Son prix baisse de 20% puis augmente de 20%. Quel est le prix final ?",
+   "options": [
+    "200 DH",
+    "192 DH",
+    "196 DH",
+    "204 DH"
+   ],
+   "correct": 1,
+   "subject": "Calcul rapide",
+   "explanation": "200 → 160 (−20%) → 192 (+20% de 160).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Un train part à 15h40 et roule 1h35. À quelle heure arrive-t-il ?",
+   "options": [
+    "17h05",
+    "17h15",
+    "17h25",
+    "16h75"
+   ],
+   "correct": 1,
+   "subject": "Calcul rapide",
+   "explanation": "15h40 + 1h35 = 17h15.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Combien de fois le chiffre 7 apparaît-il de 1 à 100 ?",
+   "options": [
+    "10",
+    "11",
+    "19",
+    "20"
+   ],
+   "correct": 3,
+   "subject": "Calcul rapide",
+   "explanation": "10 fois en unité (7,17…97) + 10 fois en dizaine (70–79) = 20 (77 en contient deux).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "3 ouvriers construisent un mur en 12 jours. Combien de jours faut-il à 6 ouvriers (même rythme) ?",
+   "options": [
+    "4 jours",
+    "6 jours",
+    "8 jours",
+    "24 jours"
+   ],
+   "correct": 1,
+   "subject": "Calcul rapide",
+   "explanation": "Deux fois plus d'ouvriers → deux fois moins de temps : 6 jours.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Quel nombre complète : 45 + … = 3 × 27 ?",
+   "options": [
+    "26",
+    "36",
+    "46",
+    "54"
+   ],
+   "correct": 1,
+   "subject": "Calcul rapide",
+   "explanation": "3 × 27 = 81 ; 81 − 45 = 36.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Dominos : [1|2], [2|3], [3|4], … ?",
+   "options": [
+    "[4|5]",
+    "[3|5]",
+    "[5|6]",
+    "[4|6]"
+   ],
+   "correct": 0,
+   "subject": "Dominos & suites",
+   "explanation": "Chaque moitié augmente de 1 : [4|5].",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Dominos : [6|1], [5|2], [4|3], … ?",
+   "options": [
+    "[2|4]",
+    "[3|4]",
+    "[2|5]",
+    "[3|5]"
+   ],
+   "correct": 1,
+   "subject": "Dominos & suites",
+   "explanation": "La somme reste 7 et le premier chiffre baisse de 1 : [3|4].",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Dominos (valeurs de 0 à 6) : [2|5], [3|6], [4|0], … ?",
+   "options": [
+    "[5|1]",
+    "[5|0]",
+    "[6|1]",
+    "[4|1]"
+   ],
+   "correct": 0,
+   "subject": "Dominos & suites",
+   "explanation": "Chaque moitié augmente de 1 en revenant à 0 après 6 : 4→5 et 0→1.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Complétez : 100, 96, 88, 76, … ?",
+   "options": [
+    "64",
+    "62",
+    "60",
+    "58"
+   ],
+   "correct": 2,
+   "subject": "Dominos & suites",
+   "explanation": "Les écarts augmentent de 4 : −4, −8, −12, donc −16 → 60.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Complétez : 7, 14, 12, 24, 22, 44, … ?",
+   "options": [
+    "40",
+    "42",
+    "46",
+    "88"
+   ],
+   "correct": 1,
+   "subject": "Dominos & suites",
+   "explanation": "Alternance ×2 puis −2 : 44 − 2 = 42.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Une horloge indique 3h00. Quel est l'angle entre les deux aiguilles ?",
+   "options": [
+    "45°",
+    "60°",
+    "90°",
+    "120°"
+   ],
+   "correct": 2,
+   "subject": "Logique",
+   "explanation": "À 3h00, les aiguilles forment un quart de tour : 90°.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Livre est à bibliothèque ce que médicament est à…",
+   "options": [
+    "Maladie",
+    "Pharmacie",
+    "Ordonnance",
+    "Médecin"
+   ],
+   "correct": 1,
+   "subject": "Analogies",
+   "explanation": "Le lieu de rangement/vente : bibliothèque / pharmacie.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  },
+  {
+   "stem": "Si 5 stylos coûtent 35 DH, combien coûtent 8 stylos ?",
+   "options": [
+    "48 DH",
+    "52 DH",
+    "56 DH",
+    "64 DH"
+   ],
+   "correct": 2,
+   "subject": "Calcul rapide",
+   "explanation": "1 stylo = 7 DH ; 8 × 7 = 56 DH.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/tests-psychotechniques"
+  }
+ ]
+}

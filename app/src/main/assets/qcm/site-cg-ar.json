@@ -1,0 +1,529 @@
+{
+ "id": "site-cg-ar",
+ "kind": "practice",
+ "lang": "ar",
+ "version": 2,
+ "source": "وظيفة إنفو – الثقافة العامة المغربية",
+ "titleFr": "Culture générale Maroc",
+ "titleAr": "الثقافة العامة المغربية",
+ "questions": [
+  {
+   "stem": "في أي سنة تم اعتماد الدستور المغربي الحالي؟",
+   "options": [
+    "1996",
+    "2004",
+    "2011",
+    "2015"
+   ],
+   "correct": 2,
+   "subject": "المؤسسات",
+   "explanation": "اعتُمد الدستور الحالي باستفتاء فاتح يوليوز 2011.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "من كم غرفة يتألف البرلمان المغربي؟",
+   "options": [
+    "غرفة واحدة",
+    "غرفتان",
+    "ثلاث غرف",
+    "أربع غرف"
+   ],
+   "correct": 1,
+   "subject": "المؤسسات",
+   "explanation": "مجلس النواب ومجلس المستشارين.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "كم عدد أعضاء مجلس النواب؟",
+   "options": [
+    "295",
+    "325",
+    "395",
+    "495"
+   ],
+   "correct": 2,
+   "subject": "المؤسسات",
+   "explanation": "395 عضواً يُنتخبون لخمس سنوات بالاقتراع العام المباشر.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "كم عدد جهات المغرب منذ 2015؟",
+   "options": [
+    "10",
+    "12",
+    "14",
+    "16"
+   ],
+   "correct": 1,
+   "subject": "المؤسسات",
+   "explanation": "التقسيم الجهوي لسنة 2015 حدد 12 جهة.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "من يعيّن رئيس الحكومة في المغرب؟",
+   "options": [
+    "البرلمان",
+    "الملك من الحزب المتصدر لنتائج الانتخابات",
+    "الناخبون مباشرة",
+    "المحكمة الدستورية"
+   ],
+   "correct": 1,
+   "subject": "المؤسسات",
+   "explanation": "الفصل 47 من الدستور: يعيّن الملك رئيس الحكومة من الحزب المتصدر.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هي اللغات الرسمية للمغرب؟",
+   "options": [
+    "العربية فقط",
+    "العربية والفرنسية",
+    "العربية والأمازيغية",
+    "الفرنسية والأمازيغية"
+   ],
+   "correct": 2,
+   "subject": "المؤسسات",
+   "explanation": "منذ دستور 2011 أصبحت الأمازيغية لغة رسمية إلى جانب العربية.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما الهيئة التي تراقب دستورية القوانين؟",
+   "options": [
+    "محكمة النقض",
+    "المحكمة الدستورية",
+    "مجلس الدولة",
+    "المجلس الأعلى للحسابات"
+   ],
+   "correct": 1,
+   "subject": "المؤسسات",
+   "explanation": "المحكمة الدستورية عوضت المجلس الدستوري بموجب دستور 2011.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هو سن التصويت في المغرب؟",
+   "options": [
+    "16 سنة",
+    "18 سنة",
+    "20 سنة",
+    "21 سنة"
+   ],
+   "correct": 1,
+   "subject": "المؤسسات",
+   "explanation": "سن الرشد الانتخابي هو 18 سنة.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "في أي سنة حصل المغرب على الاستقلال؟",
+   "options": [
+    "1953",
+    "1956",
+    "1958",
+    "1962"
+   ],
+   "correct": 1,
+   "subject": "التاريخ",
+   "explanation": "أُعلن الاستقلال سنة 1956 بعد عودة محمد الخامس.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "متى انطلقت المسيرة الخضراء؟",
+   "options": [
+    "6 نونبر 1975",
+    "3 مارس 1973",
+    "20 غشت 1953",
+    "18 نونبر 1976"
+   ],
+   "correct": 0,
+   "subject": "التاريخ",
+   "explanation": "انطلقت المسيرة الخضراء في 6 نونبر 1975 بمشاركة 350 ألف متطوع.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "بأي معاهدة فُرضت الحماية الفرنسية على المغرب؟",
+   "options": [
+    "مؤتمر الجزيرة الخضراء (1906)",
+    "معاهدة فاس (1912)",
+    "اتفاق إيكس ليبان (1955)",
+    "معاهدة مدريد (1880)"
+   ],
+   "correct": 1,
+   "subject": "التاريخ",
+   "explanation": "معاهدة فاس الموقعة في 30 مارس 1912 فرضت نظام الحماية.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "بماذا يرتبط تاريخ 20 غشت في المغرب؟",
+   "options": [
+    "عيد العرش",
+    "ثورة الملك والشعب",
+    "عيد الاستقلال",
+    "استرجاع وادي الذهب"
+   ],
+   "correct": 1,
+   "subject": "التاريخ",
+   "explanation": "في 20 غشت 1953 نُفي محمد الخامس فاندلعت ثورة الملك والشعب.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما أول دولة حكمت المغرب؟",
+   "options": [
+    "المرابطون",
+    "الأدارسة",
+    "المرينيون",
+    "السعديون"
+   ],
+   "correct": 1,
+   "subject": "التاريخ",
+   "explanation": "أسس إدريس الأول الدولة الإدريسية حوالي سنة 788م.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "منذ أي سنة يحكم الملك محمد السادس؟",
+   "options": [
+    "1997",
+    "1999",
+    "2001",
+    "2003"
+   ],
+   "correct": 1,
+   "subject": "التاريخ",
+   "explanation": "اعتلى محمد السادس العرش في 23 يوليوز 1999.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "معركة الملوك الثلاثة (وادي المخازن) وقعت سنة…",
+   "options": [
+    "1492",
+    "1578",
+    "1660",
+    "1769"
+   ],
+   "correct": 1,
+   "subject": "التاريخ",
+   "explanation": "انتصر السعديون على البرتغاليين في 4 غشت 1578.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هي أعلى قمة في المغرب؟",
+   "options": [
+    "جبل مكون",
+    "جبل توبقال",
+    "جبل العياشي",
+    "جبل صغرو"
+   ],
+   "correct": 1,
+   "subject": "الجغرافيا",
+   "explanation": "توبقال أعلى قمة بالمغرب بارتفاع 4167 متراً في الأطلس الكبير.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هو أطول نهر في المغرب؟",
+   "options": [
+    "سبو",
+    "أم الربيع",
+    "درعة",
+    "ملوية"
+   ],
+   "correct": 2,
+   "subject": "الجغرافيا",
+   "explanation": "نهر درعة أطول أنهار المغرب بحوالي 1100 كلم.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هي العاصمة الاقتصادية للمغرب؟",
+   "options": [
+    "الرباط",
+    "الدار البيضاء",
+    "طنجة",
+    "مراكش"
+   ],
+   "correct": 1,
+   "subject": "الجغرافيا",
+   "explanation": "الدار البيضاء مركز النشاط المالي والصناعي للمملكة.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما المضيق الذي يفصل المغرب عن إسبانيا؟",
+   "options": [
+    "مضيق ميسينا",
+    "مضيق جبل طارق",
+    "البوسفور",
+    "مضيق هرمز"
+   ],
+   "correct": 1,
+   "subject": "الجغرافيا",
+   "explanation": "مضيق جبل طارق الذي لا يتجاوز عرضه 14 كلم.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هو أكبر ميناء في المغرب؟",
+   "options": [
+    "ميناء الدار البيضاء",
+    "طنجة المتوسط",
+    "ميناء أكادير",
+    "ميناء الجرف الأصفر"
+   ],
+   "correct": 1,
+   "subject": "الجغرافيا",
+   "explanation": "طنجة المتوسط أول ميناء إفريقي من حيث معالجة الحاويات.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هو أكبر سد في المغرب؟",
+   "options": [
+    "سد المسيرة",
+    "سد الوحدة",
+    "سد بين الويدان",
+    "سد محمد الخامس"
+   ],
+   "correct": 1,
+   "subject": "الجغرافيا",
+   "explanation": "سد الوحدة بإقليم وزان هو الأكبر في المملكة.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هي الجهة الأكثر سكاناً بالمغرب؟",
+   "options": [
+    "الرباط-سلا-القنيطرة",
+    "الدار البيضاء-سطات",
+    "فاس-مكناس",
+    "مراكش-آسفي"
+   ],
+   "correct": 1,
+   "subject": "الجغرافيا",
+   "explanation": "جهة الدار البيضاء-سطات تتجاوز 7 ملايين نسمة.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "في أي مورد معدني يملك المغرب أكبر احتياطي عالمي؟",
+   "options": [
+    "الحديد",
+    "الفوسفاط",
+    "النحاس",
+    "الفضة"
+   ],
+   "correct": 1,
+   "subject": "الاقتصاد",
+   "explanation": "يملك المغرب حوالي 70% من الاحتياطي العالمي للفوسفاط.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هو البنك المركزي للمغرب؟",
+   "options": [
+    "التجاري وفا بنك",
+    "بنك المغرب",
+    "البنك الشعبي",
+    "صندوق الإيداع والتدبير"
+   ],
+   "correct": 1,
+   "subject": "الاقتصاد",
+   "explanation": "بنك المغرب يصدر العملة ويدير السياسة النقدية.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "كم سنتيماً في الدرهم الواحد؟",
+   "options": [
+    "10",
+    "50",
+    "100",
+    "1000"
+   ],
+   "correct": 2,
+   "subject": "الاقتصاد",
+   "explanation": "الدرهم الواحد يساوي 100 سنتيم.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هو أول قطاع مصدّر في المغرب في السنوات الأخيرة؟",
+   "options": [
+    "النسيج",
+    "صناعة السيارات",
+    "الفلاحة",
+    "السياحة"
+   ],
+   "correct": 1,
+   "subject": "الاقتصاد",
+   "explanation": "أصبحت صناعة السيارات أول قطاع مصدّر متقدمة على الفوسفاط.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ماذا يعني اختصار CNSS؟",
+   "options": [
+    "الصندوق الوطني للضمان الاجتماعي",
+    "المجلس الوطني للصحة والشؤون الاجتماعية",
+    "الصندوق الوطني للخدمات الاجتماعية",
+    "المركز الوطني للتضامن الاجتماعي"
+   ],
+   "correct": 0,
+   "subject": "الاقتصاد",
+   "explanation": "الصندوق الوطني للضمان الاجتماعي يؤمن التغطية الاجتماعية لأجراء القطاع الخاص.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "في أي سنة انضم المغرب إلى الأمم المتحدة؟",
+   "options": [
+    "1945",
+    "1956",
+    "1960",
+    "1963"
+   ],
+   "correct": 1,
+   "subject": "المغرب والعالم",
+   "explanation": "انضم المغرب للأمم المتحدة في 12 نونبر 1956، سنة استقلاله.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "متى عاد المغرب إلى الاتحاد الإفريقي؟",
+   "options": [
+    "2015",
+    "2017",
+    "2019",
+    "2021"
+   ],
+   "correct": 1,
+   "subject": "المغرب والعالم",
+   "explanation": "عاد المغرب رسمياً للاتحاد الإفريقي في يناير 2017 بعد غياب 33 سنة.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "مع أي بلدين سينظم المغرب كأس العالم 2030؟",
+   "options": [
+    "إسبانيا والبرتغال",
+    "فرنسا وإسبانيا",
+    "مصر وتونس",
+    "البرتغال وإيطاليا"
+   ],
+   "correct": 0,
+   "subject": "المغرب والعالم",
+   "explanation": "سينظم المغرب مونديال 2030 بشراكة مع إسبانيا والبرتغال.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "في أي مدينة انعقدت القمة التأسيسية لمنظمة التعاون الإسلامي سنة 1969؟",
+   "options": [
+    "القاهرة",
+    "مكة",
+    "الرباط",
+    "جدة"
+   ],
+   "correct": 2,
+   "subject": "المغرب والعالم",
+   "explanation": "انعقدت أول قمة إسلامية بالرباط في شتنبر 1969.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما الساعة القانونية التي يعتمدها المغرب منذ 20 شتنبر 2026؟",
+   "options": [
+    "غرينتش",
+    "غرينتش+1",
+    "غرينتش+2",
+    "غرينتش-1"
+   ],
+   "correct": 0,
+   "subject": "المغرب والعالم",
+   "explanation": "أعاد المرسوم رقم 2.26.530 (الجريدة الرسمية عدد 7521 بتاريخ 29 يونيو 2026) المغرب إلى توقيت غرينتش طوال السنة ابتداء من 20 شتنبر 2026، منهياً العمل بغرينتش+1 المعتمد منذ أكتوبر 2018.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما هي كبرى مدن الأقاليم الجنوبية (الصحراء المغربية)؟",
+   "options": [
+    "الداخلة",
+    "العيون",
+    "السمارة",
+    "بوجدور"
+   ],
+   "correct": 1,
+   "subject": "المغرب والعالم",
+   "explanation": "العيون كبرى مدن الجنوب ومركز جهة العيون-الساقية الحمراء.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ماذا يعني اختصار المجلس الأعلى للسلطة القضائية؟",
+   "options": [
+    "هيئة دستورية تسهر على استقلال السلطة القضائية",
+    "محكمة عليا للنقض",
+    "لجنة لمراقبة المساطر القضائية",
+    "نقابة القضاة"
+   ],
+   "correct": 0,
+   "subject": "المؤسسات",
+   "explanation": "المجلس الأعلى للسلطة القضائية يرأسه الملك ويضمن استقلال القضاء.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "كم يبلغ طول السواحل المغربية تقريباً؟",
+   "options": [
+    "1200 كلم",
+    "2000 كلم",
+    "3500 كلم",
+    "5000 كلم"
+   ],
+   "correct": 2,
+   "subject": "الجغرافيا",
+   "explanation": "حوالي 3500 كلم على المحيط الأطلسي والبحر الأبيض المتوسط.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما المؤسسة التي تدبر تقاعد الموظفين المدنيين للدولة؟",
+   "options": [
+    "الصندوق الوطني للضمان الاجتماعي",
+    "الصندوق المغربي للتقاعد",
+    "النظام الجماعي لمنح رواتب التقاعد",
+    "الصندوق المهني المغربي للتقاعد"
+   ],
+   "correct": 1,
+   "subject": "الاقتصاد",
+   "explanation": "الصندوق المغربي للتقاعد يدبر معاشات موظفي الدولة المدنيين والعسكريين.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  },
+  {
+   "stem": "ما المدينة التي كانت عاصمة الموحدين؟",
+   "options": [
+    "فاس",
+    "مراكش",
+    "الرباط",
+    "مكناس"
+   ],
+   "correct": 1,
+   "subject": "التاريخ",
+   "explanation": "كانت مراكش عاصمة المرابطين ثم الموحدين.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/qcm-%D8%A7%D9%84%D8%AB%D9%82%D8%A7%D9%81%D8%A9-%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9"
+  }
+ ]
+}

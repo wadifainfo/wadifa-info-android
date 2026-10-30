@@ -1,0 +1,529 @@
+{
+ "id": "site-cg-fr",
+ "kind": "practice",
+ "lang": "fr",
+ "version": 2,
+ "source": "Wadifa Info – Culture générale Maroc",
+ "titleFr": "Culture générale Maroc",
+ "titleAr": "الثقافة العامة المغربية",
+ "questions": [
+  {
+   "stem": "En quelle année la Constitution marocaine actuelle a-t-elle été adoptée ?",
+   "options": [
+    "1996",
+    "2004",
+    "2011",
+    "2015"
+   ],
+   "correct": 2,
+   "subject": "Institutions",
+   "explanation": "La Constitution actuelle a été adoptée par référendum le 1er juillet 2011.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "De combien de chambres se compose le Parlement marocain ?",
+   "options": [
+    "Une seule",
+    "Deux",
+    "Trois",
+    "Quatre"
+   ],
+   "correct": 1,
+   "subject": "Institutions",
+   "explanation": "La Chambre des représentants et la Chambre des conseillers.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Combien de membres compte la Chambre des représentants ?",
+   "options": [
+    "295",
+    "325",
+    "395",
+    "495"
+   ],
+   "correct": 2,
+   "subject": "Institutions",
+   "explanation": "395 membres élus pour 5 ans au suffrage universel direct.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Combien de régions compte le Maroc depuis 2015 ?",
+   "options": [
+    "10",
+    "12",
+    "14",
+    "16"
+   ],
+   "correct": 1,
+   "subject": "Institutions",
+   "explanation": "Le découpage régional de 2015 a fixé 12 régions.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Qui nomme le Chef du gouvernement au Maroc ?",
+   "options": [
+    "Le Parlement",
+    "Le Roi, au sein du parti arrivé premier aux élections",
+    "Les électeurs directement",
+    "La Cour constitutionnelle"
+   ],
+   "correct": 1,
+   "subject": "Institutions",
+   "explanation": "Article 47 de la Constitution : le Roi nomme le Chef du gouvernement au sein du parti arrivé en tête.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quelles sont les langues officielles du Maroc ?",
+   "options": [
+    "L'arabe uniquement",
+    "L'arabe et le français",
+    "L'arabe et l'amazighe",
+    "Le français et l'amazighe"
+   ],
+   "correct": 2,
+   "subject": "Institutions",
+   "explanation": "Depuis 2011, l'amazighe est langue officielle aux côtés de l'arabe.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quel organe contrôle la constitutionnalité des lois ?",
+   "options": [
+    "La Cour de cassation",
+    "La Cour constitutionnelle",
+    "Le Conseil d'État",
+    "La Cour des comptes"
+   ],
+   "correct": 1,
+   "subject": "Institutions",
+   "explanation": "La Cour constitutionnelle a remplacé le Conseil constitutionnel (Constitution 2011).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "À quel âge peut-on voter au Maroc ?",
+   "options": [
+    "16 ans",
+    "18 ans",
+    "20 ans",
+    "21 ans"
+   ],
+   "correct": 1,
+   "subject": "Institutions",
+   "explanation": "La majorité électorale est fixée à 18 ans.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "En quelle année le Maroc a-t-il obtenu son indépendance ?",
+   "options": [
+    "1953",
+    "1956",
+    "1958",
+    "1962"
+   ],
+   "correct": 1,
+   "subject": "Histoire",
+   "explanation": "L'indépendance a été proclamée en 1956, après le retour de Mohammed V.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quand a eu lieu la Marche Verte ?",
+   "options": [
+    "6 novembre 1975",
+    "3 mars 1973",
+    "20 août 1953",
+    "18 novembre 1976"
+   ],
+   "correct": 0,
+   "subject": "Histoire",
+   "explanation": "350 000 volontaires ont marché vers le Sahara le 6 novembre 1975.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Par quel traité le protectorat français a-t-il été instauré au Maroc ?",
+   "options": [
+    "Traité d'Algésiras (1906)",
+    "Traité de Fès (1912)",
+    "Accord d'Aix-les-Bains (1955)",
+    "Traité de Madrid (1880)"
+   ],
+   "correct": 1,
+   "subject": "Histoire",
+   "explanation": "Le traité de Fès du 30 mars 1912 a instauré le protectorat.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Que commémore le 20 août au Maroc ?",
+   "options": [
+    "La fête du Trône",
+    "La Révolution du Roi et du Peuple",
+    "La fête de l'Indépendance",
+    "La récupération d'Oued Eddahab"
+   ],
+   "correct": 1,
+   "subject": "Histoire",
+   "explanation": "Le 20 août 1953, l'exil de Mohammed V a déclenché la Révolution du Roi et du Peuple.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quelle est la première dynastie à avoir régné sur le Maroc ?",
+   "options": [
+    "Les Almoravides",
+    "Les Idrissides",
+    "Les Mérinides",
+    "Les Saadiens"
+   ],
+   "correct": 1,
+   "subject": "Histoire",
+   "explanation": "Idriss Ier a fondé la dynastie idrisside vers 788.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Depuis quelle année le Roi Mohammed VI règne-t-il ?",
+   "options": [
+    "1997",
+    "1999",
+    "2001",
+    "2003"
+   ],
+   "correct": 1,
+   "subject": "Histoire",
+   "explanation": "Mohammed VI a accédé au trône le 23 juillet 1999.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "La bataille des Trois Rois (Oued El Makhazine) a eu lieu en…",
+   "options": [
+    "1492",
+    "1578",
+    "1660",
+    "1769"
+   ],
+   "correct": 1,
+   "subject": "Histoire",
+   "explanation": "Victoire saadienne sur les Portugais le 4 août 1578.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quel est le point culminant du Maroc ?",
+   "options": [
+    "Jbel M'Goun",
+    "Jbel Toubkal",
+    "Jbel Ayachi",
+    "Jbel Saghro"
+   ],
+   "correct": 1,
+   "subject": "Géographie",
+   "explanation": "Le Toubkal culmine à 4 167 m dans le Haut Atlas.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quel est le plus long fleuve du Maroc ?",
+   "options": [
+    "Sebou",
+    "Oum Errabia",
+    "Draa",
+    "Moulouya"
+   ],
+   "correct": 2,
+   "subject": "Géographie",
+   "explanation": "Le Draa s'étend sur environ 1 100 km, le plus long du pays.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quelle ville est la capitale économique du Maroc ?",
+   "options": [
+    "Rabat",
+    "Casablanca",
+    "Tanger",
+    "Marrakech"
+   ],
+   "correct": 1,
+   "subject": "Géographie",
+   "explanation": "Casablanca concentre l'essentiel de l'activité financière et industrielle.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quel détroit sépare le Maroc de l'Espagne ?",
+   "options": [
+    "Le détroit de Messine",
+    "Le détroit de Gibraltar",
+    "Le Bosphore",
+    "Le détroit d'Ormuz"
+   ],
+   "correct": 1,
+   "subject": "Géographie",
+   "explanation": "Le détroit de Gibraltar, large d'environ 14 km seulement.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quel est le plus grand port du Maroc ?",
+   "options": [
+    "Port de Casablanca",
+    "Tanger Med",
+    "Port d'Agadir",
+    "Port de Jorf Lasfar"
+   ],
+   "correct": 1,
+   "subject": "Géographie",
+   "explanation": "Tanger Med est le premier port d'Afrique en capacité de conteneurs.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quel est le plus grand barrage du Maroc ?",
+   "options": [
+    "Barrage Al Massira",
+    "Barrage Al Wahda",
+    "Barrage Bin El Ouidane",
+    "Barrage Mohammed V"
+   ],
+   "correct": 1,
+   "subject": "Géographie",
+   "explanation": "Le barrage Al Wahda (province de Ouezzane) est le plus grand du royaume.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quelle région marocaine est la plus peuplée ?",
+   "options": [
+    "Rabat-Salé-Kénitra",
+    "Casablanca-Settat",
+    "Fès-Meknès",
+    "Marrakech-Safi"
+   ],
+   "correct": 1,
+   "subject": "Géographie",
+   "explanation": "Casablanca-Settat dépasse 7 millions d'habitants.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Dans quelle ressource minière le Maroc détient-il les premières réserves mondiales ?",
+   "options": [
+    "Le fer",
+    "Les phosphates",
+    "Le cuivre",
+    "L'argent"
+   ],
+   "correct": 1,
+   "subject": "Économie",
+   "explanation": "Le Maroc détient environ 70% des réserves mondiales de phosphates (OCP).",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quelle est la banque centrale du Maroc ?",
+   "options": [
+    "Attijariwafa Bank",
+    "Bank Al-Maghrib",
+    "Banque Populaire",
+    "CDG"
+   ],
+   "correct": 1,
+   "subject": "Économie",
+   "explanation": "Bank Al-Maghrib émet la monnaie et conduit la politique monétaire.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Combien de centimes compte un dirham ?",
+   "options": [
+    "10",
+    "50",
+    "100",
+    "1000"
+   ],
+   "correct": 2,
+   "subject": "Économie",
+   "explanation": "1 dirham = 100 centimes.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quel est le premier secteur exportateur du Maroc ces dernières années ?",
+   "options": [
+    "Le textile",
+    "L'automobile",
+    "L'agriculture",
+    "Le tourisme"
+   ],
+   "correct": 1,
+   "subject": "Économie",
+   "explanation": "L'automobile est devenue le premier poste d'exportation, devant les phosphates.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Que désigne le sigle CNSS ?",
+   "options": [
+    "Caisse Nationale de Sécurité Sociale",
+    "Conseil National de la Santé et du Social",
+    "Caisse Nationale des Services Sociaux",
+    "Centre National de Solidarité Sociale"
+   ],
+   "correct": 0,
+   "subject": "Économie",
+   "explanation": "La CNSS gère la couverture sociale des salariés du privé.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "En quelle année le Maroc a-t-il rejoint l'ONU ?",
+   "options": [
+    "1945",
+    "1956",
+    "1960",
+    "1963"
+   ],
+   "correct": 1,
+   "subject": "Maroc & Monde",
+   "explanation": "Le Maroc a adhéré à l'ONU le 12 novembre 1956, l'année de son indépendance.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quand le Maroc a-t-il réintégré l'Union africaine ?",
+   "options": [
+    "2015",
+    "2017",
+    "2019",
+    "2021"
+   ],
+   "correct": 1,
+   "subject": "Maroc & Monde",
+   "explanation": "Retour officiel à l'UA en janvier 2017, après 33 ans d'absence.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Avec quels pays le Maroc co-organisera-t-il la Coupe du monde 2030 ?",
+   "options": [
+    "Espagne et Portugal",
+    "France et Espagne",
+    "Égypte et Tunisie",
+    "Portugal et Italie"
+   ],
+   "correct": 0,
+   "subject": "Maroc & Monde",
+   "explanation": "Le Mondial 2030 sera co-organisé par le Maroc, l'Espagne et le Portugal.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Dans quelle ville s'est tenu le sommet fondateur de l'Organisation de la Coopération Islamique (1969) ?",
+   "options": [
+    "Le Caire",
+    "La Mecque",
+    "Rabat",
+    "Djeddah"
+   ],
+   "correct": 2,
+   "subject": "Maroc & Monde",
+   "explanation": "Le premier sommet islamique s'est tenu à Rabat en septembre 1969.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quelle heure légale le Maroc applique-t-il depuis le 20 septembre 2026 ?",
+   "options": [
+    "GMT",
+    "GMT+1",
+    "GMT+2",
+    "GMT-1"
+   ],
+   "correct": 0,
+   "subject": "Maroc & Monde",
+   "explanation": "Le décret n° 2.26.530 (BO n° 7521 du 29 juin 2026) a remis le Maroc à l'heure GMT toute l'année à partir du 20 septembre 2026, mettant fin au GMT+1 appliqué depuis octobre 2018.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quelle est la capitale administrative des provinces du Sud (Sahara marocain) ?",
+   "options": [
+    "Dakhla",
+    "Laâyoune",
+    "Smara",
+    "Boujdour"
+   ],
+   "correct": 1,
+   "subject": "Maroc & Monde",
+   "explanation": "Laâyoune est la plus grande ville et le chef-lieu de la région Laâyoune-Sakia El Hamra.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Que signifie le sigle CSPJ ?",
+   "options": [
+    "Conseil Supérieur du Pouvoir Judiciaire",
+    "Cour Suprême de la Justice",
+    "Conseil de Surveillance des Procédures Judiciaires",
+    "Comité Supérieur des Juges"
+   ],
+   "correct": 0,
+   "subject": "Institutions",
+   "explanation": "Le CSPJ, présidé par le Roi, garantit l'indépendance du pouvoir judiciaire.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Combien de kilomètres de côtes le Maroc possède-t-il environ ?",
+   "options": [
+    "1 200 km",
+    "2 000 km",
+    "3 500 km",
+    "5 000 km"
+   ],
+   "correct": 2,
+   "subject": "Géographie",
+   "explanation": "Environ 3 500 km de côtes sur l'Atlantique et la Méditerranée.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quel organisme gère les retraites des fonctionnaires civils de l'État ?",
+   "options": [
+    "La CNSS",
+    "La CMR",
+    "Le RCAR",
+    "La CIMR"
+   ],
+   "correct": 1,
+   "subject": "Économie",
+   "explanation": "La Caisse Marocaine des Retraites (CMR) gère les pensions civiles et militaires de l'État.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  },
+  {
+   "stem": "Quelle ville marocaine était la capitale des Almohades ?",
+   "options": [
+    "Fès",
+    "Marrakech",
+    "Rabat",
+    "Meknès"
+   ],
+   "correct": 1,
+   "subject": "Histoire",
+   "explanation": "Marrakech fut la capitale des Almoravides puis des Almohades.",
+   "explanationKind": "editorial",
+   "sourceUrl": "https://www.wadifa-info.com/fr/qcm-culture-generale"
+  }
+ ]
+}
